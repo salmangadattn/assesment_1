@@ -14,7 +14,7 @@ public class Asses_Q2 {
 
         ArrayList<String> lines = new ArrayList<>();
 
-        while (sc.hasNextLine()) {
+        while (true) {
             String line = sc.nextLine();
 
             if (line.equals("XDONE")) {
